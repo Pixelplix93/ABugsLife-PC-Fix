@@ -20,10 +20,12 @@ Original `bugs.exe`:
 
 ## Features
 
-* Removes the game’s dependency on drive `D:`
-* Runs without the original CD or a mounted disc image
+* Removes the game's dependency on drive `D:`
+* Allows the game to run without the original CD or a mounted disc image
 * Improves compatibility with modern Windows systems
 * Forces Hardware Mode and skips the renderer selection screen
+* Includes dgVoodoo for improved fullscreen support, scaling, and compatibility
+
 
 ## Download
 
