@@ -3,7 +3,8 @@
 <img width="1410" height="1116" alt="BugFix" src="https://github.com/user-attachments/assets/a711df08-2495-49bd-acb5-1a7adb9b4259" />
 
 
-This fix removes the need for the original game CD, improves compatibility with modern Windows systems, and launches the game directly in Hardware Mode.
+**This fix removes the game's dependency on drive `D:`, allowing it to run without the original CD or a disc image mounted specifically as `D:`. It also improves compatibility with modern Windows systems and forces Hardware Mode.**
+
 
 ## Supported Version
 
@@ -16,6 +17,13 @@ Original `bugs.exe`:
 * MD5: `01028A9F85A0732F964786D0CD7D339D`
 * SHA-1: `71C4F5A296B4F18B46AC94B3A28815A898185824`
 * SHA-256: `97C95BA5572DCE637F6EA6325DBFFF0C9A2D002A30D3DC88F39E0F558A27B878`
+
+## Features
+
+* Removes the game’s dependency on drive `D:`
+* Runs without the original CD or a mounted disc image
+* Improves compatibility with modern Windows systems
+* Forces Hardware Mode and skips the renderer selection screen
 
 ## Download
 
