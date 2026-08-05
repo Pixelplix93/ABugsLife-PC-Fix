@@ -1,4 +1,4 @@
-# A Bugs Life PC Fix
+# A Bug's Life PC Fix
 
 <img width="1410" height="1116" alt="BugFix" src="https://github.com/user-attachments/assets/a711df08-2495-49bd-acb5-1a7adb9b4259" />
 
