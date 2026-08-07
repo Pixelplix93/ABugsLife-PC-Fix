@@ -3,7 +3,8 @@
 <img width="1410" height="1116" alt="BugFix" src="https://github.com/user-attachments/assets/a711df08-2495-49bd-acb5-1a7adb9b4259" />
 
 
-**This fix removes the game's dependency on drive `D:`, allowing it to run without the original CD or a disc image mounted specifically as `D:`. It also improves compatibility with modern versions of Windows and forces Hardware Mode.**
+**This fix removes the game's hardcoded `D:` drive check, allowing it to run without the original CD or a disc image mounted as `D:`. 
+Also improves compatibility with modern versions of Windows and forces Hardware Mode.**
 
 
 ## Supported Version
