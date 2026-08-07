@@ -10,14 +10,6 @@
 
 A Bug's Life PC — English (US) version
 
-Original `bugs.exe`:
-
-* File size: `1,069,056 bytes`
-* CRC32: `C9C7AB4E`
-* MD5: `01028A9F85A0732F964786D0CD7D339D`
-* SHA-1: `71C4F5A296B4F18B46AC94B3A28815A898185824`
-* SHA-256: `97C95BA5572DCE637F6EA6325DBFFF0C9A2D002A30D3DC88F39E0F558A27B878`
-
 ## Features
 
 * Removes the game's dependency on drive `D:`
@@ -33,8 +25,7 @@ The fix is available in the **Releases** section.
 
 The archive contains:
 
-* An xDelta patch for `bugs.exe`
-* xDelta UI
+* `bugs.exe`
 * `32.dll`
 * dgVoodoo
 * A README with installation instructions
