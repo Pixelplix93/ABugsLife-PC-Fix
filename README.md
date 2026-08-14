@@ -9,7 +9,7 @@ Also improves compatibility with modern versions of Windows and forces Hardware 
 
 ## Supported Version
 
-A Bug's Life PC — English (US) version
+A Bug's Life (PC) – English version
 
 ## Features
 
