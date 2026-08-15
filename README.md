@@ -37,7 +37,7 @@ This is an unofficial fix and is not affiliated with or endorsed by **Disney/Pix
 
 *A Bug's Life* and all related rights belong to their respective owners.
 
-No copyrighted game data files are included.
+No original game installation is included.
 
 You must own an original copy of *A Bug's Life* to use this fix.
 
